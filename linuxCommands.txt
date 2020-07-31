@@ -1,0 +1,135 @@
+    1  dir
+    2  pwd
+    3  clear
+    4  git --version
+    5  java -version
+    6  clear
+    7  java -version
+    8  java -version
+    9  git --version
+   10  cd ~
+   11  mkdir TerminalCommands
+   12  ls
+   13  cd TerminalComments
+   14  cd TerminalComments
+   15  cd TerminalCommands
+   16  git clone https://github.com/edurekavivekh/linux-content.git
+   17  ls
+   18  cd linux-content
+   19  ls
+   20  pwd
+   21  cd ..
+   22  pwd
+   23  ls
+   24  lts
+   25  ls ..
+   26  ls ~
+   27  cd TerminalCommants
+   28  cd TerminalCommands
+   29  cd linux-content
+   30  ls -a
+   31  ls
+   32  ls -a
+   33  ls -l
+   34  clear
+   35  ls
+   36  cd TerminalCommands/
+   37  ls ~
+   38  mkdir temp
+   39  ls
+   40  del temp
+   41  remove temp
+   42  clear
+   43  ls
+   44  rm -R temp
+   45  ls
+   46  ls -P
+   47  ls -p
+   48  clear
+   49  nano abc
+   50  mkdir -p temp/temp
+   51  ls
+   52  cd temp
+   53  ls
+   54  cd temp
+   55  ls
+   56  cd ..
+   57  cd ..
+   58  rm temp/temp
+   59  rm -R temp/temp
+   60  ls
+   61  cd temp
+   62  ls
+   63  mkdir temp
+   64  cd ..
+   65  ls
+   66  rm temp
+   67  rm -R temp
+   68  ls
+   69  touch test
+   70  ls
+   71  rm abc
+   72  ls
+   73  netstat
+   74  netstat -h
+   75  clear
+   76  ls
+   77  cat abc.txt
+   78  nano abc
+   79  ls
+   80  cat abc
+   81  cat abc.txt
+   82  cp abc ~/TerminalCommands/temp
+   83  ls
+   84  cd temp
+   85  rm temp
+   86  ls
+   87  mkdir temp
+   88  ls
+   89  cp abc ~/TerminalCommands/temp
+   90  cd temp
+   91  ls
+   92  cat abc
+   93  cd ..
+   94  rm -R temp
+   95  ls
+   96  cd linux-content/
+   97  ls
+   98  ls -l
+   99  mkdir ~/Quicklink
+  100  ls ~
+  101  ls
+  102  ln -s linux_chit_sheet.pdf ~/Quicklink/
+  103  ln -s ~/TerminalCommands/linux-content/linux_chit_sheet.pdf ~/Quicklink/
+  104  ls ../temp
+  105  ls ~/TerminalCommands/
+  106  mkdir ~/TerminalCommands/temp
+  107  ls ~/TerminalCommands/
+  108  cd ../..
+  109  cd TerminalCommands/
+  110  cd linux-content/
+  111  cd ....
+  112  clear
+  113  cd ~
+  114  cd Quicklink/
+  115  ls
+  116  cd ../TerminalCommands/linux-content/
+  117  ls
+  118  cat data.csv
+  119  head -5 data.csv
+  120  head -1 data.csv
+  121  head -2 data.csv
+  122  tail -2 data.csv
+  123  clear
+  124  ls
+  125  cat data.csv
+  126  head -6 data
+  127  head -6 data.csv
+  128  head -9 data.csv | tail -4
+  129  less access.log
+  130  less access.log
+  131  less data.csv
+  132  cd ..
+  133  history
+  134  clear
+  135  history > linuxCommands.txt
